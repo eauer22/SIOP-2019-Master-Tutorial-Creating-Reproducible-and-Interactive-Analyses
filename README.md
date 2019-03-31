@@ -1,4 +1,4 @@
-# SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-
+# SIOP 2019 Master Tutorial Creating Reproducible and Interactive Analyses with JupyterLab and Binder
 This tutorial demonstrates two data science tools that enable IO psychologists to create interactive, literate code documents, enabling others to replicate analyses with one click on the web. 
 
 This is a repository of materials associated with the SIOP 2019 Master Tutorial Creating reproducible and interactive analyses with JupyterLab and Binder.
