@@ -8,18 +8,6 @@ head(bfi_data) #view first few cases of dataset
 
 describe (bfi_data) #look at descriptives for each variable
 
-scree(bfi_data[,1:25])
-
-bfi_fa <- fa(bfi_data[1:25],
-nfactors = 5,
-fm="pa",
-max.iter = 100,
-rotate = "oblimin")
-
-fa.diagram(bfi_fa)
-
-print(bfi_fa$loadings, cutoff=0, digits=3)
-
 keys.list <-
 list(agree=c("-A1","A2","A3","A4","A5"), conscientious=c("C1","C2","C3","-C4","-C5"),
 extraversion=c("-E1","-E2","E3","E4","E5"), neuroticism=c("N1","N2","N3","N4","N5"),
