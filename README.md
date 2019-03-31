@@ -22,6 +22,10 @@ Binder (Demo 2 Notebook - Full Project Workflow):
 File: Creating Reproducible and Interactive Analyses with JupyterLab and Binder.pdf
 Description: A powerpoint slide deck describing a conceptual overview of JupyterLab, Jupyter Notebooks, and Binder technologies.
 
+## Installation Instructions
+File: InstallingJupyterLab.md
+Description: A file describing how to install JupyterLab using Anaconda
+
 ## Demo Jupyter Notebooks
 Files: Demo_pt1.ipynb,Demo_pt2.ipynb,Demo_pt2.r
 Description: 
@@ -42,4 +46,4 @@ If you have questions about the materials in this repository or permissions to u
 
 Tutorial Citation:
 
-Auer, E. M., Landers, R. N. (2019, April). Creating reproducible and interactive analyses with JupyterLab and Binder. Master tutorial presented at the 34th Annual Conference of the Society for Industrial and Organizational Psychology, National Harbor, MD. 
+Auer, E. M. & Landers, R. N. (2019, April). Creating reproducible and interactive analyses with JupyterLab and Binder. Master tutorial presented at the 34th Annual Conference of the Society for Industrial and Organizational Psychology, National Harbor, MD. 
