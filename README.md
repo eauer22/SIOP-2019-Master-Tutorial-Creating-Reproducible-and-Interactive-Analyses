@@ -37,11 +37,6 @@ Description:
 * Demo_pt2.ipynb: Jupyter Notebook detailing a full workflow of some sample analyses, with literate documentation (converted from R script)
 * Demo_pt2.r: R script displaying code for a full workflow of some sample analyses
 
-## Additional Resources
-File: Additional_Resources.mkd
-
-Description: A list of additional resources, including online tutorials, papers, and book chapters.
-
 ## Binder Materials
 Files: install.R and runtime.txt
 
