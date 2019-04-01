@@ -3,7 +3,7 @@ This tutorial demonstrates two data science tools that enable IO psychologists t
 
 This is a repository of materials associated with the SIOP 2019 Master Tutorial Creating reproducible and interactive analyses with JupyterLab and Binder.
 
-To view and interact with the demo Jupyter Notebooks, click on one of these binder buttons:
+**To view and interact with the demo Jupyter Notebooks, click on one of these binder buttons:**
 
 Binder (full repository):
 
