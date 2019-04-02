@@ -7,7 +7,7 @@ This is a repository of materials associated with the SIOP 2019 Master Tutorial 
 
 Binder (full repository in Jupyter Lab):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git/master?urlpath=lab/tree/index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git/master?urlpath=lab/tree/)
 
 Binder (Demo 1 Notebook - Using Jupyter Notebooks & Binder):
 
