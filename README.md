@@ -11,11 +11,11 @@ Binder (full repository in Jupyter Lab):
 
 Binder (Demo 1 Notebook - Using Jupyter Notebooks & Binder):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses/master?filepath=Demo_pt1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses/master?urlpath=lab/tree/Demo_pt1.ipynb)
 
 Binder (Demo 2 Notebook - Full Project Workflow):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses/master?filepath=Demo_pt2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses/master?urlpath=lab/tree/Demo_pt2.ipynb)
 
 Binder (full repository in RStudio):
 
