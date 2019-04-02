@@ -5,9 +5,9 @@ This is a repository of materials associated with the SIOP 2019 Master Tutorial 
 
 **To view and interact with the demo Jupyter Notebooks, click on one of these binder buttons:**
 
-Binder (full repository):
+Binder (full repository in Jupyter Lab):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git/master?urlpath=lab/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git/master?urlpath=lab/?filepath=Demo_pt1.ipynb)
 
 Binder (Demo 1 Notebook - Using Jupyter Notebooks & Binder):
 
@@ -16,6 +16,10 @@ Binder (Demo 1 Notebook - Using Jupyter Notebooks & Binder):
 Binder (Demo 2 Notebook - Full Project Workflow):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses/master?filepath=Demo_pt2.ipynb)
+
+Binder (full repository in RStudio):
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git/master?urlpath=rstudio/Demo_pt2.R)
 
 
 ## Presentation Slides
