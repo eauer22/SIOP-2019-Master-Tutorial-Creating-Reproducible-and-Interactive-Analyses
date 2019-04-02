@@ -15,7 +15,7 @@ Binder (Demo 2 Notebook - Full Project Workflow):
 
 Binder (full repository in RStudio):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git/master?urlpath=rstudio/Demo_pt2.r)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git/master?urlpath=rstudio/)
 
 
 ## Presentation Slides
